@@ -1,4 +1,13 @@
 # youtubedownloader
-python downloader for youtube video with python 3 and pytube
+python downloader for youtube video with python 3 and pytube library
 
-pour installer pytube lancer la commande pip install pytube dans votre cmd en mode admin
+### Prerequisites
+
+python 3 and pip 
+
+### Installation
+
+```
+pip install pytube
+```
+
